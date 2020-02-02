@@ -8,7 +8,6 @@
   * one
   * two
  </details>
- 
  <details>
   <summary>Outline what your event will entail, and check it is feasible</summary>
  
