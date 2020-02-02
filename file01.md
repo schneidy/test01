@@ -3,6 +3,8 @@
 <summary>Research</summary>
 
 <details>
+
+<details>
   <summary>Define your goals and objectives</summary>
  
   * one
@@ -17,3 +19,6 @@
  </details>
    
 </details>
+
+</details>
+
