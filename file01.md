@@ -3,8 +3,11 @@
 
   <summary>One</summary>
   
-  * aaa
+  * <details><summary>aaa</summary>
   
+    * sub aaa
+    
+  </details>
   
   * bbb
 
