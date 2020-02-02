@@ -1,32 +1,10 @@
-<details>
 
-<summary>One</summary>
-
-  <details>
-  <summary>aaa</summary>
-
-   * sub aaa 1
-   * sub aaa 2
-
-  </details>
-
-  <details>
-  <summary>bbb</summary>
-
-   * sub bbb 1
-   * sub bbb 2
-
-  </details>
-
-</details>
 
 ---
 
-* Fruit
-  * Apple
-  * Orange
-* Banana
-  * Dairy
-    * Milk
-    * Cheese
+* <summary>One</summary><details>
+  * <summary>AAA</summary><details>
+    * <summary>1aaa</summary>
+    * <summary>2aaa</summary>
 						
+---
