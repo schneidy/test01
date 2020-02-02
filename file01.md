@@ -1,22 +1,24 @@
 5 Steps To Putting On A Successful Event
 <details>
-<summary>Research</summary>
-<summary>*<details><summary>Define your goals and objectives</summary>
+
+  <summary>Research</summary>
+  
+  <details><summary>Define your goals and objectives</summary>
   
   * one
   * two
   
- </details>
+   </details>
  
- <details>
-  <summary>Outline what your event will entail, and check it is feasible</summary>
+   <details>
+    <summary>Outline what your event will entail, and check it is feasible</summary>
   
-  * aaa
-  * bbb
+    * aaa
+    * bbb
   
- </details>
+   </details>
  
-</summary> 
+  </summary> 
 
 </details>
 
