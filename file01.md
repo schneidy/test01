@@ -3,8 +3,8 @@
 <summary>Research</summary>
 
   * Define your goals and objectives
-   * one
-   * two
+    * one
+    * two
   * Outline what your event will entail, and check it is feasible
   
 </details>
