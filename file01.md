@@ -3,7 +3,8 @@
 <summary>Research</summary>
 
 <details>
-  * <summary>Define your goals and objectives</summary>
+  <summary>Define your goals and objectives</summary>
+ 
     * one
     * two
  </details>
