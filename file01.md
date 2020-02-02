@@ -11,7 +11,7 @@
   </details>
 
   <details><summary>  
-  * bbb</summary>
+  bbb</summary>
 
    * sub bbb 1
    * sub bbb 2
