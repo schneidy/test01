@@ -3,8 +3,6 @@
 <summary>Research</summary>
 
 <details>
-
-<details>
   <summary>Define your goals and objectives</summary>
  
   * one
@@ -17,8 +15,6 @@
   * aaa
   * bbb
  </details>
-   
-</details>
 
 </details>
 
