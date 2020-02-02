@@ -2,8 +2,8 @@
 <details>
 <summary>Research</summary>
 
-<details>
-  * <summary>Define your goals and objectives</summary>
+* <details>
+  <summary>Define your goals and objectives</summary>
  
   * one
   * two
