@@ -12,4 +12,16 @@
   
 </details>
 
+* <details><summary>Planning</summary>
+	
+  * Event Schedule
+  * Venue Location
+  * Capacity
+  * Space
+  * Bump in
+  * Bump out
+  
+</details>
+
+
 </details>
