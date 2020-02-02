@@ -2,9 +2,7 @@
 <details>
 <summary>Research</summary>
   
-<summary>  
-  
-<details>
+<summary><details>
   <summary>Define your goals and objectives</summary>
   
   * one
