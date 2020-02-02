@@ -1,8 +1,7 @@
 5 Steps To Putting On A Successful Event
 <details>
 <summary>Research</summary>
-<summary><details>
-  <summary>Define your goals and objectives</summary>
+<summary><details><summary>Define your goals and objectives</summary>
   
   * one
   * two
