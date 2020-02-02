@@ -1,3 +1,6 @@
+
+[Github](http://github.com)
+
 <details><summary>5 Steps To Putting On A Successful Event - https://blog.markgrowth.com/5-steps-to-putting-on-a-successful-event-aab87538072f</summary>
 
 * <details><summary>Research</summary>
