@@ -4,9 +4,9 @@
 
 <details>
 
-* <summary>One</summary><details>
+* <details><summary>One</summary>
 	
-  * <summary>AAA</summary><details>
+  * <details><summary>AAA</summary>
 	
     * 1aaa
     * 2aaa
