@@ -2,19 +2,19 @@
 
 <summary>One</summary>
 
-<details><summary>aaa</summary>
+    <details><summary>aaa</summary>
 
- * sub aaa 1
- * sub aaa 2
+    * sub aaa 1
+    * sub aaa 2
 
-</details>
+    </details>
 
-<details><summary>bbb</summary>
+    <details><summary>bbb</summary>
 
- * sub bbb 1
- * sub bbb 2
+    * sub bbb 1
+    * sub bbb 2
 
-</details>
+    </details>
 
 </details>
 
