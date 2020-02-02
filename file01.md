@@ -2,6 +2,8 @@
 
 ---
 
+<details>
+
 * <summary>One</summary><details>
 	
   * <summary>AAA</summary><details>
@@ -11,6 +13,8 @@
 	
   </details>
   
+</details>
+
 </details>
 						
 ---
