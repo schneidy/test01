@@ -11,6 +11,9 @@
 
 <details><summary>bbb</summary>
 
+ * sub bbb 1
+ * sub bbb 2
+
 </details>
 
 </details>
