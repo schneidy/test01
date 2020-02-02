@@ -11,7 +11,8 @@
     * Develop a budget
   
   </details>
-  <details><summary>Planning</summary>
+  
+  * <details><summary>Planning</summary>
 	
     * Event Schedule
     * Venue Location
@@ -20,8 +21,7 @@
     * Bump in
     * Bump out
   
-</details>
-
+  </details>
 
 </details>
 
