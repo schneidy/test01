@@ -1,5 +1,6 @@
 # Events
 
+
 ## [5 Steps To Putting On A Successful Event](https://blog.markgrowth.com/5-steps-to-putting-on-a-successful-event-aab87538072f)
 
 * Research
@@ -63,7 +64,7 @@
 
 ---
 
-## [How to Plan an Event: The Complete Event Planning Guide])https://www.wildapricot.com/articles/how-to-plan-an-event)
+## [How to Plan an Event: The Complete Event Planning Guide](https://www.wildapricot.com/articles/how-to-plan-an-event)
 
 * Develop Your Event Goal and Objectives
   * Why are you organizing this event, and what do you hope to achieve?
@@ -156,3 +157,4 @@
   * Ask attendees to answer some questions about their opinion of the event and provide them with the opportunity to make additional comments.
 
 ---
+
