@@ -2,8 +2,8 @@
 
 <summary>One</summary>
 
-  <details><summary>
-  * aaa</summary>
+  <details>
+  * <summary>aaa</summary>
 
    * sub aaa 1
    * sub aaa 2
