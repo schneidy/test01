@@ -2,6 +2,8 @@
 <details>
 <summary>Research</summary>
   
+<summary>  
+  
 <details>
   <summary>Define your goals and objectives</summary>
   
@@ -17,6 +19,8 @@
   * bbb
   
  </details>
+ 
+</summary> 
 
 </details>
 
