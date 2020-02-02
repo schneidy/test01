@@ -1,17 +1,13 @@
+<details><summary>[5 Steps To Putting On A Successful Event](https://blog.markgrowth.com/5-steps-to-putting-on-a-successful-event-aab87538072f)</summary>
 
-<details><summary>Top Level</summary>
-
-* <details><summary>Sub Level 1</summary>
+* <details><summary>Research</summary>
 	
-  * <details><summary>Sub Level 2</summary>
-	
-    * List Item 1
-    * List Item 2
-	
-  </details>
+  * Define your goals and objectives
+  * Outline what your event will entail, and check it is feasible
+  * Determine your audience
+  * Create a timeline
+  * Develop a budget
   
 </details>
 
 </details>
-						
----
