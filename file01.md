@@ -2,12 +2,18 @@
 <details>
 <summary>Research</summary>
 
-* <details>
+<details>
   <summary>Define your goals and objectives</summary>
  
   * one
   * two
  </details>
-  * Outline what your event will entail, and check it is feasible
-  
+ 
+ <details>
+  <summary>Outline what your event will entail, and check it is feasible</summary>
+ 
+  * aaa
+  * bbb
+ </details>
+   
 </details>
